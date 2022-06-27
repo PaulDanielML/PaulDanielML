@@ -3,7 +3,7 @@
 <p>I'm a Data Scientist / ML Engineer looking to effect positive change. </p>
 
 - :denmark: I currently live in Copenhagen, Denmark
-- :zap: I work as a Data Scientist at OYO
+- :zap: I work as a Data Scientist / Software Developer at DHI
 - :deciduous_tree: Especially interested in mitigating human environmental impact
 - :bulb: Continuously amazed by what Deep Learning can achieve
 
